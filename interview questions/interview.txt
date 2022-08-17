@@ -1,0 +1,37 @@
+--------------------------------------- Python ----------------------------
+1. difference b/w list and tuples
+2. what is decorator? explain with example
+3. difference b/w list and dict comprehension
+4. how memory is managed in python
+5. difference b/w generators and iterators
+6. what is 'init' keyword in python
+7. difference b/w modules and packages in python
+8. difference b/w range and Xrange
+9. explain mutable and immutable data types in python
+10. what is inheritance in python
+11. difference b/w local and global variable
+12. explain break, continue and pass
+13. difference b/w pickling and unpickling
+14. what are python iterators
+15. what does *args and **kwargs mean
+16. what is open and with statement in python
+17. how is exception handled in python
+18. how can one know if a class is a child class or a parent class
+19. how to get list of all keys in a dictionary
+20. what is abstraction and encapsulation
+21. what are private, public and protected variables
+
+
+
+
+--------------------------- Data Science / Machine Learning --------------
+1. explain hierarchical clustering algorithm
+2. what evaluation parameter is used to evaluate clusters
+3. explain  K-means or DBSCAN
+4. what are ensembling techniques. Explain bagging and boosting
+5. what is the use of p-values in linear regression
+6. what is overfitting and underfitting
+7. explain precision, recall
+8. What is AUC ROC curve. explain
+9. Which regression error metric is most impacted by outliers
+10. explain your project
