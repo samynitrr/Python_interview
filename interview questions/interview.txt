@@ -35,3 +35,19 @@
 8. What is AUC ROC curve. explain
 9. Which regression error metric is most impacted by outliers
 10. explain your project
+11. Explain ARIMA model 
+12. What is the difference between supervised and semi-supervised learning
+
+
+------------------------------------ Statistics ---------------------------------
+12. which statistics test is used to check the stationarity of the time series data.
+13. which test are used to check the distribution of the data. 
+14. What are the assumptions of z-test and t-test
+15. What are paramteric and non parametric tests / difference b/w paramteric and non parametric tests
+
+
+
+----------------------------- Github ------------------------------------
+1. How to make a local copy of a remote github repo
+2. how to rollback a commit
+3. what is atomic commit
